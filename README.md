@@ -1,6 +1,7 @@
 # cosmosdb
 
 - Install and run cosmos db emulator on windows machine
+- access emulator @ https://localhost:8081/_explorer/index.html
 - add dependency of "azure-spring-boot-starter-cosmos" in pom.xml file
 - define properties to connect with running intance of emulator
   azure.cosmos.uri=https://localhost:8081
